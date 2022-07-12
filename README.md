@@ -1,2 +1,2 @@
 # vin-sfdev-repo
-Readme file with code of trailhead developer org. I'm making changes here to induce merge conflict. I'm making some changes too.
+Readme file with code of trailhead developer org. I'm making changes here to induce merge conflict. Added change without pulling local main branch. I'm making some changes too.
